@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with mobile developers contributing to open source projects
 - 💬 Ask me about @react-native, @react
 - ⚡ JavaScript and mobile enthusiast
--->
